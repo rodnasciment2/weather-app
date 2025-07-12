@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #83a4d4, #b6fbff);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 2rem;
+  border-radius: 8px;
+  text-align: center;
+}
+input {
+  padding: 0.5rem;
+  width: 70%;
+  margin-right: 0.5rem;
+}
+button {
+  padding: 0.5rem 1rem;
+}
+.weather-info img {
+  width: 100px;
+}
